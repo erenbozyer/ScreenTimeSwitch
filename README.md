@@ -11,7 +11,7 @@
 
 ## 🛠️ Kullanım
 
-1. `muzik_modu.bat` dosyasını çalıştırın.
+1. `ScreenTimeSwitch.bat` dosyasını çalıştırın.
 2. Açılan menüden bir seçenek girin:
    - `1` → Müzik Modu
    - `2` → Normal Mod
